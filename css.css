@@ -1,0 +1,16 @@
+*{
+
+    padding: 0;
+margin: 0;
+
+}
+
+.h1{
+
+    color:red;
+}
+h1:hover{
+    text-align: center;
+    color:blue;
+    font-size: 12px;
+}
